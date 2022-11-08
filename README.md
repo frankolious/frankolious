@@ -2,7 +2,7 @@
   
   | # Get stuff done!         |# ABL - ALWAYS BE LEARNIng     | SMILE |
 |---------------------------|--------------------------|--------------------|
-| 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |   |  ![TeamWork](/imgWork/dev.png "DevOps"  width="200" )|
+| 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |   |  ![TeamWork]( /imgWork/dev.png "DevOps"  width="200" )|
 
 - 👀 I’m interested in growing with a small Passionate tribe.
   - ART SCIENCE AND TECHNOLOGY
