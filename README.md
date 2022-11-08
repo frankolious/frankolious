@@ -1,8 +1,8 @@
 - 
   
   | # Get stuff done!         |# ABL - ALWAYS BE LEARNIng     | SMILE |
-|---------------------------|------------------------------|--------------------|
-| 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |      |  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)    |
+|---------------------------|--------------------------|--------------------|
+| 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |   |  ![alt text](/imgWork/dev.png "title")|
 
 - 👀 I’m interested in growing with a small Passionate tribe.
   - ART SCIENCE AND TECHNOLOGY
