@@ -1,30 +1,31 @@
-## 👋 |   Hi, I am a *FULL STACK SOFTWARE ENGINEER* | <img src="/imgWork/dev.png" width="240" /> |
-- 👀 I’m interested in growing with a small Passionate tribe.
-  - ART SCIENCE AND TECHNOLOGY Driven!
-  - I live in that triangle for focus!
-- 🌱 I’m currently learning ...
+## 👋 |   Hi, I am a *FULL STACK SOFTWARE ENGINEER* | <img src="/imgWork/dev.png" width="200" /> |
+FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining how useful frankolious can be 
+---|---|---
+👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! |
+
+- ## I am currently working on learning typeScript full stack systems through versel and other wierd spokey saving of config files to make other files do cool vj stuff.
+
+oh, really? you wanna see?
+okay - here is a (<LINK>) link (</LINK>)
+
+
+# 🌱 I’m currently learning ...
   - The DevOps world of Apps from the Cloud Native Landscape!
     - Check out the link to the FULL MAP! Its a crazy amount of services and software to continue learning.
-    - That said concepts can be used in most software stacks regardless of CI/CD Pipeline
-## Things I am progressively getting better at ##
-- [x] Source Code Management
+    - That said, *concepts* can be used in most software, so stacks regardless of CI/CD Pipeline all follow the same concepts. Dont stress the CNLF 
 
-- [x] Git Commands and CLI everything as CODE
+## Things I am progressively getting better at 
+1 and | 2 and | 3 and 
+---|---|---
+Source Code Management  |  Git Commands and CLI everything as CODE | Python
+ Package Management | 
+CI/CD | K8, K9CLI, K10 (security and backups) | Ansible and Terraform
+*container orchestration and cloud deployment IaaS and Monitoring* |
+ 
 
-- [ ] Python
+- ## 💞️YES! I’m looking to collaborate on projects. 
 
-- [x] Package Management
-
-
-- [ ] CI/CD
-
-  - [ ] - K8, K9CLI, K10 (security and backups)
-
-  - [ ] Ansible and Terraform for the  
-
-    - [ ] ## *container orchestration and cloud deployment IaaS and Monitoring* 
-
-- 💞️ I’m looking to collaborate on projects.  Know all this for designer wanting to understand design systems
+# Know *all this* for designers wanting to understand design systems and collaborate better in remote teams :) - You are welcome :)
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -40,12 +41,12 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
+[<img src="https://img.shields.io/badge/LABEL ME- THEN MESSAGE ME-COLOR.svg?logo=LOGO">](<LINK>)
 
-- 📫 How to reach me ...
-  - check out linkedIn for work requests.
+- # 📫 How to reach me ...
+  - # check out linkedIn for work requests.
   - <https://Linkedin.com/in/frankolious>
 
-[<img src="https://img.shields.io/badge/LABEL ME- THEN MESSAGE ME-COLOR.svg?logo=LOGO">](<LINK>)
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -58,7 +59,7 @@ How else do we build stuff?  --> ![Stack Overflow](https://img.shields.io/badge/
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     
- ## Currently Exploring - ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) and  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## Currently Exploring - ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) and  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
   # Sure! I would accept crypto for consultations :) - ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) and ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) - through - ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 
@@ -135,11 +136,21 @@ Search with - ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style
 
 
 
+### _Seeing as you made it aaaaaaall the way to the bottom here, a prize indeed, in a sense... well you'll digg it, Im sure - Never get block again!_
 
+AI Assistant writer for ya!
+- throgh 
+  - __ in __
+  - some 
+    - bullet 
+    - points
 
+# and BOOOMB you got a *world class professional* written _plagerism-free_ - 
+see what i did there...
 
+[GOMOONBEAM.COM](https://gomoonbeam.com)
 
-
+Thanks and you are welcome! Aweeeeh
 
 <!---
 frankolious/frankolious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
