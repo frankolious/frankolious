@@ -1,5 +1,9 @@
-- 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER*
+- 
   
+  | # Get stuff done!         |# ABL - ALWAYS BE LEARNIng     | SMILE |
+|---------------------------|------------------------------|--------------------|
+| 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |      |  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)    |
+
 - 👀 I’m interested in growing with a small Passionate tribe.
   - ART SCIENCE AND TECHNOLOGY
   - I live in that triangle for focus!
