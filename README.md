@@ -7,14 +7,14 @@
     - Check out the link to the FULL MAP! Its a crazy amount of services and software to continue learning.
     - That said concepts can be used in most software stacks regardless of CI/CD Pipeline
 ## Things I am progressively getting better at ##
->Source Code Management
-   - Git Commands and CLI everything as CODE
-   - Python
->Package Management
-    -K8, K9CLI, K10 (security and backups)
->CI/CD
->> Ansible and Terraform for the ## *container orchestration and cloud deployment IaaS and Monitoring* ##
->> 💞️ I’m looking to collaborate on projects.  Know all this for designer wanting to understand design systems
+[x]Source Code Management
+[x]Git Commands and CLI everything as CODE
+[] Python
+[x]Package Management
+[]-K8, K9CLI, K10 (security and backups)
+[]CI/CD
+  []Ansible and Terraform for the ## *container orchestration and cloud deployment IaaS and Monitoring* ##
+- 💞️ I’m looking to collaborate on projects.  Know all this for designer wanting to understand design systems
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
