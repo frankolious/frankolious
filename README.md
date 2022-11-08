@@ -1,6 +1,6 @@
-- 👋 Hi, I am a FULL STACK SOFTWARE ENGINEER 
-  I have 
-- 👀 I’m interested in ...
+- 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER*
+  
+- 👀 I’m interested in growing with a small Passionate tribe.
   - ART SCIENCE AND TECHNOLOGY
   - I live in that triangle for focus!
 - 🌱 I’m currently learning ...
