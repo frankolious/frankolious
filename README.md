@@ -1,4 +1,4 @@
-## 👋 Hi, I am a *FULL STACK SOFTWARE ENGINEER* | <img src="/imgWork/dev.png" width="240" /> |
+|  👋 ## Hi, I am a *FULL STACK SOFTWARE ENGINEER* | <img src="/imgWork/dev.png" width="240" /> |
 - 👀 I’m interested in growing with a small Passionate tribe.
   - ART SCIENCE AND TECHNOLOGY Driven!
   - I live in that triangle for focus!
@@ -11,18 +11,18 @@
 
 - [x] Git Commands and CLI everything as CODE
 
-- [] Python
+- [ ] Python
 
 - [x] Package Management
 
 
-- [] CI/CD
+- [ ] CI/CD
 
-  - [] - K8, K9CLI, K10 (security and backups)
+  - [ ] - K8, K9CLI, K10 (security and backups)
 
-  - [] Ansible and Terraform for the  
+  - [ ] Ansible and Terraform for the  
 
-    - [] ## *container orchestration and cloud deployment IaaS and Monitoring* 
+    - [ ] ## *container orchestration and cloud deployment IaaS and Monitoring* 
 
 - 💞️ I’m looking to collaborate on projects.  Know all this for designer wanting to understand design systems
 
