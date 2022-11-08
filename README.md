@@ -1,5 +1,3 @@
-- 
-# | Get stuff done!     |  ABL - ALWAYS BE LEARNIng   | SMILE |
 ## 👋 Hi, I am a *FULL STACK SOFTWARE ENGINEER* | <img src="/imgWork/dev.png" width="240" /> |
 - 👀 I’m interested in growing with a small Passionate tribe.
   - ART SCIENCE AND TECHNOLOGY Driven!
