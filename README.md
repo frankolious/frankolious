@@ -36,10 +36,6 @@
   - check out linkedIn for work requests.
   - <https://Linkedin.com/in/frankolious>
 
-- ![badge](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="frankolious" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/frankolious?trk=profile-badge">Frank Harris</a></div>)
-
-
- [<img src="https://ch.linkedin.com/in/frankolious?trk=profile-badge">](<LINK>)
 [<img src="https://img.shields.io/badge/LABEL ME- THEN MESSAGE ME-COLOR.svg?logo=LOGO">](<LINK>)
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
