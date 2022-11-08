@@ -1,11 +1,12 @@
 - 
   
-  | # Get stuff done!         |# ABL - ALWAYS BE LEARNIng     | SMILE |
-|--------|--------|--------|
-| 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |   |   [<img src="/imgWork/dev.png" width="200" />]|
+  | # Get stuff done!     |  ABL - ALWAYS BE LEARNIng   | SMILE |
+ 
+ 👋 Hi, I am a ## *FULL STACK SOFTWARE ENGINEER* |   |   [<img src="/imgWork/dev.png" width="300" />]|
+
 
 - 👀 I’m interested in growing with a small Passionate tribe.
-  - ART SCIENCE AND TECHNOLOGY
+  - ART SCIENCE AND TECHNOLOGY Driven!
   - I live in that triangle for focus!
 - 🌱 I’m currently learning ...
   - The DevOps world of Apps from the Cloud Native Landscape!
