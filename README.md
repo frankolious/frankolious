@@ -7,10 +7,14 @@
     - Check out the link to the FULL MAP! Its a crazy amount of services and software to continue learning.
     - That said concepts can be used in most software stacks regardless of CI/CD Pipeline
 ## Things I am progressively getting better at ##
-[x]Source Code Management
-[x]Git Commands and CLI everything as CODE
+[x] Source Code Management
+
+[x] Git Commands and CLI everything as CODE
+
 [] Python
-[x]Package Management
+
+[x] Package Management
+
 []-K8, K9CLI, K10 (security and backups)
 []CI/CD
   []Ansible and Terraform for the ## *container orchestration and cloud deployment IaaS and Monitoring* ##
