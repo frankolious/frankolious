@@ -6,16 +6,17 @@ FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining h
 - ## I am currently working on learning typeScript full stack systems through versel and other wierd spokey saving of config files to make other files do cool vj stuff.
 
 oh, really? you wanna see?
-okay - here is a (<LINK>) link (</LINK>)
+okay - here is a [LINK](../frankolious/nextjs/pages/index.tsxfrankolious/next)
 
 
 # 🌱 I’m currently learning ...
   - The DevOps world of Apps from the Cloud Native Landscape!
     - Check out the link to the FULL MAP! Its a crazy amount of services and software to continue learning.
-    - That said, *concepts* can be used in most software, so stacks regardless of CI/CD Pipeline all follow the same concepts. Dont stress the CNLF 
+    - That said, *concepts* can be used in most software, so stacks regardless of CI/CD Pipeline all follow the same concepts. Don't  let the stress the [Cloud NATIVE LANDSCAPE](https://landscape.cncf.io/?fullscreen=yes&zoom=40) freek your out. Take it daily, You gots this! After a while, you begin
+     ### _*to see HOW suuuuuper COOOL*_ # it all is!
 
 ## Things I am progressively getting better at 
-1 and | 2 and | 3 and 
+1 and | 2 and | 3 and_______
 ---|---|---
 Source Code Management  |  Git Commands and CLI everything as CODE | Python
  Package Management | 
@@ -43,16 +44,17 @@ CI/CD | K8, K9CLI, K10 (security and backups) | Ansible and Terraform
 
 [<img src="https://img.shields.io/badge/LABEL ME- THEN MESSAGE ME-COLOR.svg?logo=LOGO">](<LINK>)
 
-- # 📫 How to reach me ...
-  - # check out linkedIn for work requests.
-  - <https://Linkedin.com/in/frankolious>
+- ## 📫 How to reach me ...
+  - ### Check out linkedIn for work requests, I am happy to discuss remote consults.
+
+  - # [Linked In ](https://Linkedin.com/in/frankolious)
 
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
-How else do we build stuff?  --> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+#### __How else do we build stuff?__  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 
 
 ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
@@ -69,9 +71,14 @@ We all begin at mysql
 then progress to PostGres :) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-# Study here - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) # Look for frankolious on Duolingo - ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) - ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) - When you just want to read - ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+##### Look for frankolious on Duolingo - ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) 
 
-maybe one day ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) - [experience in and with]
+ ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) 
+### - When you just want to read - ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+
+###### maybe one day ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) 
+
+### *__Experience in and with:__*
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
