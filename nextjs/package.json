@@ -1,24 +1,36 @@
 {
   "name": "nextjs",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
   "scripts": {
-    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "export": "next export",
-    "lint": "next lint"
+    "start": "next start"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@types/node": "18.11.9",
-    "@types/react": "18.0.25",
-    "@types/react-dom": "18.0.8",
-    "eslint": "8.27.0",
-    "eslint-config-next": "13.0.2",
-    "next": "13.0.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "4.8.4"
+    "babel-plugin-styled-components": "latest",
+    "next": "canary",
+    "react": "latest",
+    "react-dom": "latest",
+    "prop-types": "latest",
+    "styled-components": "latest",
+    "webpack": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "babel-eslint": "latest",
+    "eslint-config-airbnb": "latest",
+    "eslint-config-mcansh": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "latest",
+    "eslint-plugin-prettier": "latest",
+    "prettier": "latest"
   }
 }
-n
