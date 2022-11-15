@@ -19,7 +19,7 @@ okay - here is a [LINK](../frankolious/nextjs/pages/index.tsxfrankolious/next)
 1 and | 2 and | 3 and_______
 ---|---|---
 Source Code Management  |  Git Commands and CLI everything as CODE | Python
- Package Management | 
+ Package Management | ANGULAR and TypeScript |
 CI/CD | K8, K9CLI, K10 (security and backups) | Ansible and Terraform
 *container orchestration and cloud deployment IaaS and Monitoring* |
  
