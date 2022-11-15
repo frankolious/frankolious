@@ -3,7 +3,7 @@ FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining h
 ---|---|---
 👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! |
 
-- ## I am currently working on learning typeScript full stack systems through versel and other wierd spokey saving of config files to make other files do cool vj stuff.
+- ## I am currently working on learning ANGULAR  and typeScript full stack systems through vercel and other wierd-spokey saving of config files to make other files do cool vj stuff.
 
 oh, really? you wanna see?
 okay - here is a [LINK](../frankolious/nextjs/pages/index.tsxfrankolious/next)
