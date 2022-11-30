@@ -1,4 +1,4 @@
-## 👋 |   Hi, I am a *FULL STACK SOFTWARE ENGINEER* | <img src="/imgWork/dev.png" width="200" /> |
+## 👋 |   Hi, I am a *Technical Business ANALYST with FULL-STACK SOFTWARE ENGINEERing experience* | <img src="/imgWork/dev.png" width="200" /> |
 FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining how useful frankolious can be 
 ---|---|---
 👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! |
