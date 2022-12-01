@@ -3,10 +3,20 @@ FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining h
 ---|---|---
 👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! |
 
-- ## I am currently working on learning ANGULAR  and typeScript full stack systems through vercel and other wierd-spokey saving of config files to make other files do cool vj stuff.
+- ## I am currently working on 
+- learning ANGULAR  and typeScript full stack systems through vercel and other wierd-spokey saving of config files to make other files do cool vj stuff.
+- The VJ stuff has started. Micro service architechture with all the business analysis documenetation being completed in figma
+  - USER, SYSTEM and BUSINESS requirements documentation with
+  - Storyboards
+  - USE Cases
+  - state diagrams
+  - web mockup
+  - Architecture landscape with containers and AZURE stuff.
+
+[] all should run ephermarally so you can try it out on your own cloud native infrastruce - this is the goal
 
 oh, really? you wanna see?
-okay - here is a [LINK](../frankolious/nextjs/pages/index.tsxfrankolious/next)
+okay - here is a [LINK](https://github.com/frankolious/Visualanties)
 
 
 # 🌱 I’m currently learning ...
