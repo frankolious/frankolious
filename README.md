@@ -1,12 +1,14 @@
-## 👋 |   Hi, I am a *Technical Business ANALYST with FULL-STACK SOFTWARE ENGINEERing experience* | <img src="/imgWork/dev.png" width="200" /> |
-FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining how useful frankolious can be 
+## 👋 |   Hi, I am a *Business ANALYST with DevOps experience* | 
+<img src="/imgWork/dev.png" width="200" /> | [Everything<img src="https://user-images.githubusercontent.com/1236067/205092392-d81a75fd-4482-4d4e-854c-d7b73756e1d2.png" width="160" height="160" />Visualantie Lives here.](https://github.com/frankolious/Visualanties)
+
+FancyPants TABLE  | awesomeness Level | frankolious can be useful!
 ---|---|---
-👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! | Everything ![Visualanties starryNIGHt](https://user-images.githubusercontent.com/1236067/205480531-be68b2d3-14cf-43e0-a0b9-7d25734fcbbd.jpeg) Lives here ____[Visualanties Repo](https://github.com/frankolious/Visualanties)
+👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! | 
 
-
-- ## I am currently working on 
-- learning ANGULAR  and typeScript full stack systems through vercel and other wierd-spokey saving of config files to make other files do cool vj stuff.
-- The VJ stuff has started. Micro service architechture with all the business analysis documenetation being completed in figma
+- ### I am currently working on:
+- The VJ stuff at Visualanties
+- Micro service architechture with all the business analysis documenetation in [figma-frankolious](https://www.figma.com/@frankolious) 
+- [Business Analysis Template Repo](https://github.com/frankolious/businessanalysis) for business analysts to hit the ground running
   - USER, SYSTEM and BUSINESS requirements documentation with
   - Storyboards
   - USE Cases
@@ -14,7 +16,7 @@ FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining h
   - web mockup
   - Architecture landscape with containers and AZURE stuff.
 
-[] all should run ephermarally so you can try it out on your own cloud native infrastruce - this is the goal
+[ ] all should run ephermarally so you can try it out on your own cloud native infrastruce - this is the goal
 
 oh, really? you wanna see?
 okay - here is a [LINK](https://github.com/frankolious/Visualanties)
@@ -23,7 +25,9 @@ okay - here is a [LINK](https://github.com/frankolious/Visualanties)
 # 🌱 I’m currently learning ...
   - The DevOps world of Apps from the Cloud Native Landscape!
     - Check out the link to the FULL MAP! Its a crazy amount of services and software to continue learning.
-    - That said, *concepts* can be used in most software, so stacks regardless of CI/CD Pipeline all follow the same concepts. Don't  let the stress the [Cloud NATIVE LANDSCAPE](https://landscape.cncf.io/?fullscreen=yes&zoom=40) freek your out. Take it daily, You gots this! After a while, you begin
+    - That said, *concepts* can be used in most software, so stacks regardless of CI/CD Pipeline all follow the same concepts. 
+    - Don't  let the stress the [Cloud NATIVE LANDSCAPE](https://landscape.cncf.io/?fullscreen=yes) freek your out. Take it daily, 
+    - You gots this! After a while, you begin
      ### _*to see HOW suuuuuper COOOL*_ # it all is!
 
 ## Things I am progressively getting better at 
