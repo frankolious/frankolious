@@ -1,7 +1,8 @@
 ## 👋 |   Hi, I am a *Technical Business ANALYST with FULL-STACK SOFTWARE ENGINEERing experience* | <img src="/imgWork/dev.png" width="200" /> |
 FancyPants TABLE NAME  | awesomeness Stock Level | some words badly explaining how useful frankolious can be 
 ---|---|---
-👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! |
+👀 I’m interested in growing with a small Passionate tribe. Personal relationships means something real to me still. | __ ART SCIENCE AND TECHNOLOGY Driven!__ |  I live in that triangle for focus! | Everything ![Visualanties starryNIGHt](https://user-images.githubusercontent.com/1236067/205480531-be68b2d3-14cf-43e0-a0b9-7d25734fcbbd.jpeg) Lives here ____[Visualanties Repo](https://github.com/frankolious/Visualanties)
+
 
 - ## I am currently working on 
 - learning ANGULAR  and typeScript full stack systems through vercel and other wierd-spokey saving of config files to make other files do cool vj stuff.
